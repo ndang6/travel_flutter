@@ -33,7 +33,7 @@ class _DestinationScreenState extends State<DestinationScreen> {
             Stack(
               children: <Widget>[
                 Container(
-                  height: MediaQuery.of(context).size.width - 100,
+                  height: MediaQuery.of(context).size.width - 50,
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(30.0),
                       boxShadow: [
@@ -57,7 +57,7 @@ class _DestinationScreenState extends State<DestinationScreen> {
                 Padding(
                   padding: EdgeInsets.symmetric(
                     horizontal: 10.0,
-                    vertical: 40.0,
+                    vertical: 20.0,
                   ),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
