@@ -6,3 +6,6 @@
 
 3. Finished destination carousel
 ![](3.png)
+
+4. Finished hotel carousel
+![](4.png)
