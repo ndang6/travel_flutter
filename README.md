@@ -9,3 +9,6 @@
 
 4. Finished hotel carousel
 ![](4.png)
+
+5. Added navigation to destinationScreen
+![](5.png)
