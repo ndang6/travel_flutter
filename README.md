@@ -12,3 +12,6 @@
 
 5. Added navigation to destinationScreen
 ![](5.png)
+
+6. Finshed destinationScreen
+![](6.png)
